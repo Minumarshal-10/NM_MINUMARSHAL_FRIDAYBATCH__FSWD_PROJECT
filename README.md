@@ -1,4 +1,4 @@
-Name: Minu Marshsl
+Name: Minu Marshal
 NM id: au960221104073
 College name: Arunachala College Of Engineering For Women
 User Name: MINUMARSHSAL
